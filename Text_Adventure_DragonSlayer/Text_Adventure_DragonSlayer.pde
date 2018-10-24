@@ -82,7 +82,6 @@ text = cp5.get(Textfield.class, "Input").getText();
   text = cp5.get(Textfield.class, "Input").getText();
      if (text.equals("go back") && check[2] == true) { 
       count = 0;
-      check[1] = true;
  }
  
 // Room Two: Hobgoblin Hall
